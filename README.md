@@ -4,7 +4,7 @@
 ## Introduction to Pandas DataFrames – Replicating an article in Markdown
 
 1. `Pandas.ipynb`
-    * Jupyter Notebook containing the structure and contents of the arcticle website
+    * Jupyter Notebook containing the structure and contents of the article website
     * Contains all Python code examples with outputs
 2. `Pandas.webp`
     * Picture for the website
